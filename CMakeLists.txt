@@ -45,6 +45,7 @@ catkin_package(
   ecl_devices
   ecl_geometry
   ecl_sigslots
+  ecl_streams
   ecl_time
   nodelet
   pluginlib

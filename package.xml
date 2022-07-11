@@ -54,6 +54,7 @@
   <build_depend>ecl_time</build_depend>
   <build_depend>ecl_build</build_depend>
   <build_depend>ecl_geometry</build_depend>
+  <depend>ecl_streams</depend>
   <build_depend>roscpp</build_depend>
   <build_depend>rospy</build_depend>
   <build_depend>sensor_msgs</build_depend>
